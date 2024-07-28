@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/tenor.gif" alt="Masterhead GIF" width="600" height="300">
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/tenor.gif" alt="Masterhead GIF" width="100%" height="300">
 </div>
 <h1 align="center">Hi 👋, I'm Abdullah Noman</h1>
 <h3 align="center">A passionate Full Stack Developer from Earth</h3>
