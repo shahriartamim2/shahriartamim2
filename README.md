@@ -6,6 +6,101 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce Site](https://github.com/shahriartamim2/E-Commerce)
+- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Circular Progress</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --progress-bar-width: 200px;
+            --progress-bar-height: 200px;
+            --font-size: 2rem;
+        }
+
+        .main {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: transparent;
+        }
+
+        .circular-progress {
+            width: var(--progress-bar-width);
+            height: var(--progress-bar-height);
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            margin: 20px;
+            color: rgb(7, 2, 2);
+        }
+
+        .inner-circle {
+            position: absolute;
+            width: calc(var(--progress-bar-width) - 30px);
+            height: calc(var(--progress-bar-height) - 30px);
+            border-radius: 50%;
+            background-color: rgb(255, 255, 255);
+        }
+
+        .percentage {
+            position: relative;
+            font-size: var(--font-size);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <div class="circular-progress" data-inner-circle-color="grey" data-progress-color="crimson"
+            data-bg-color="black">
+            <div class="inner-circle"></div>
+            <p class="percentage">0%</p>
+        </div>
+    </div>
+
+    <script>
+        const circularProgress = document.querySelectorAll(".circular-progress");
+
+        Array.from(circularProgress).forEach((progressBar) => {
+            const progressValue = progressBar.querySelector(".percentage");
+            const innerCircle = progressBar.querySelector(".inner-circle");
+            //declare an int number
+            const s = ((27 / 90) * 100)
+            let startValue = 0,
+                endValue = Math.ceil(Number(s)),
+                speed = 50,
+                progressColor = progressBar.getAttribute("data-progress-color");
+
+            const progress = setInterval(() => {
+                startValue++;
+                progressValue.textContent = `${startValue}%`;
+                progressValue.style.color = `${progressColor}`;
+
+                innerCircle.style.backgroundColor = `${progressBar.getAttribute("data-inner-circle-color")}`;
+
+                progressBar.style.background = `conic-gradient(${progressColor} ${startValue * 3.6}deg, ${progressBar.getAttribute("data-bg-color")} 0deg)`;
+
+                if (startValue === endValue) {
+                    clearInterval(progress);
+                }
+            }, speed);
+        });
+    </script>
+</body>
+
+</html>
 
 - 🌱 I’m currently learning **React Native, MongoDB, Express, React, C, C++**
 
