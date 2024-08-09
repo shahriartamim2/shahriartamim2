@@ -86,7 +86,7 @@
 
 <div style="display: flex; align-items: center;">
 
-<p style="flex: 1; padding-right: 10px;">
+<p style="flex: 1; ">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&theme=radical" alt="shahriartamim2" style="height: 200px;" />
 </p>
 
