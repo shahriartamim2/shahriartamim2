@@ -99,4 +99,6 @@
 
 
 
-<p><img align="center" style="align:center; height:180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" alt="shahriartamim2" /></p>
+<div  style="display: flex; align-items: center;">
+	<p><img align="center" style="height:180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" alt="shahriartamim2" /></p>
+</div>
