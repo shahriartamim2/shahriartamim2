@@ -99,6 +99,6 @@
 
 
 
-<div  style="width:100%; display: flex; align-items: center;">
+<div  style="width:100%; display: flex; align-items: left;">
 	<p><img align="center" style="width:100%;height:180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" alt="shahriartamim2" /></p>
 </div>
