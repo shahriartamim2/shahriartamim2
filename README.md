@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce Site](https://github.com/shahriartamim2/E-Commerce)
-
-- 🌱 I’m currently learning **React Native, MongoDB, Express, React, C, C++**
-
-- 💬 Ask me about **React, MongoDB, Express, NodeJS, C**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-noman-6ab4991ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-noman-6ab4991ab" height="30" width="40" /></a>
