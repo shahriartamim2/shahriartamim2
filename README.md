@@ -10,7 +10,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah-noman-6ab4991ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-noman-6ab4991ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/me-noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-noman-6ab4991ab" height="30" width="40" /></a>
     <a href="https://twitter.com/mextamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mextamim" height="30" width="40" /></a>
     <a href="https://discord.gg/ishahriartamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ishahriartamim" height="30" width="40" /></a>
 <a href="https://fb.com/shahriartamim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahriartamim2" height="30" width="40" /></a>
