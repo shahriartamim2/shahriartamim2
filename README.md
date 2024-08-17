@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriartamim2&label=Profile%20views&color=0e75b6&style=flat" alt="shahriartamim2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
+## 🌟 Looking for Collaboration on MERN Stack Projects!
+
+I'm actively seeking collaboration opportunities on **MERN stack** projects. If you're working on something exciting and need a hand with the **frontend** or **Backend**, feel free to reach out. Let's build something amazing together! 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,6 +79,7 @@
 </table>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
 
 
 <div style="display: flex; align-items: center;">
