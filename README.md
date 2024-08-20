@@ -39,20 +39,41 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </tr>
 </table>
 
-<h3 align="left">Other Languages:</h3>
+<h3 align="left">Backend Technologies:</h3>
 <table>
     <tr>
-        <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65" height="65"/></a></td>
-        <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="65" height="65"/></a></td>
-        <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/></a></td>
+        <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/></a></td>
+        <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nodejs" width="65" height="65"/></a></td>
     </tr>
     <tr>
-        <td>C</td>
-        <td>C++</td>
-        <td>Python</td>
+        <td>Express</td>
+        <td>Node.js</td>
     </tr>
 
 </table>
+
+
+<h3 align="left">Database:</h3>
+<table>
+    <tr>
+        <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/></a></td>
+    </tr>
+    <tr>
+        <td>MongoDB</td>
+    </tr>
+</table>
+
+
+<h3 align="left">Frameworks:</h3>
+<table>
+    <tr>
+        <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="65" height="65"/></a></td>
+    </tr>
+    <tr>
+        <td>Next.js</td>
+    </tr>
+</table>
+
 
 <h3 align="left">Tools:</h3>
 <table>
@@ -71,37 +92,21 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 
 </table>
 
-<h3 align="left">Database:</h3>
+
+
+<h3 align="left">Other Languages:</h3>
 <table>
     <tr>
-        <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/></a></td>
+        <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65" height="65"/></a></td>
+        <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="65" height="65"/></a></td>
+        <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/></a></td>
     </tr>
     <tr>
-        <td>MongoDB</td>
-    </tr>
-</table>
-
-<h3 align="left">Backend Technologies:</h3>
-<table>
-    <tr>
-        <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/></a></td>
-        <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nodejs" width="65" height="65"/></a></td>
-    </tr>
-    <tr>
-        <td>Express</td>
-        <td>Node.js</td>
+        <td>C</td>
+        <td>C++</td>
+        <td>Python</td>
     </tr>
 
-</table>
-
-<h3 align="left">Frameworks:</h3>
-<table>
-    <tr>
-        <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="65" height="65"/></a></td>
-    </tr>
-    <tr>
-        <td>Next.js</td>
-    </tr>
 </table>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
