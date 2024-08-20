@@ -35,7 +35,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
         <td>Sass</td>
         <td>Bootstrap</td>
         <td>Tailwind</td>
-        		<td>Redux</td>
+        <td>Redux</td>
     </tr>
 </table>
 
@@ -50,7 +50,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
         <td>C</td>
         <td>C++</td>
         <td>Python</td>
-
     </tr>
 
 </table>
@@ -62,14 +61,12 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
         <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/></a></td>
         <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/></a></td>
 <td><a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/></a></td>
-
     </tr>
     <tr>
         <td>Figma</td>
         <td>Git</td>
         <td>Postman</td>
     	<td>Github</td>
-
     </tr>
 
 </table>
