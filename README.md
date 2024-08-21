@@ -27,16 +27,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
                 <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65"/></a></td>
                 <td><a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="65" height="65"/></a></td>
     </tr>
-    <tr>
-        <td>React</td>
-        <td>HTML5</td>
-        <td>CSS3</td>
-        <td>JavaScript</td>
-        <td>Sass</td>
-        <td>Bootstrap</td>
-        <td>Tailwind</td>
-        <td>Redux</td>
-    </tr>
 </table>
 
 <h3 align="left">Backend Technologies:</h3>
@@ -44,10 +34,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     <tr>
         <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/></a></td>
         <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nodejs" width="65" height="65"/></a></td>
-    </tr>
-    <tr>
-        <td>Express</td>
-        <td>Node.js</td>
     </tr>
 
 </table>
@@ -58,9 +44,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     <tr>
         <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/></a></td>
     </tr>
-    <tr>
-        <td>MongoDB</td>
-    </tr>
+
 </table>
 
 
@@ -68,9 +52,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <table>
     <tr>
         <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="65" height="65"/></a></td>
-    </tr>
-    <tr>
-        <td>Next.js</td>
     </tr>
 </table>
 
@@ -83,13 +64,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
         <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/></a></td>
 <td><a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/></a></td>
     </tr>
-    <tr>
-        <td>Figma</td>
-        <td>Git</td>
-        <td>Postman</td>
-    	<td>Github</td>
-    </tr>
-
 </table>
 
 
@@ -100,11 +74,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
         <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65" height="65"/></a></td>
         <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="65" height="65"/></a></td>
         <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/></a></td>
-    </tr>
-    <tr>
-        <td>C</td>
-        <td>C++</td>
-        <td>Python</td>
     </tr>
 
 </table>
