@@ -29,18 +29,30 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </tr>
 </table>
 
+
+<div style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start;">
+  <div style="flex: 1;">
+
 <div style="display: flex; gap: 20px;">
   <div>
+
     <h3 align="left">Backend Technologies:</h3>
     <table>
       <tr>
         <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/></a></td>
+        <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nodejs" width="65" height="65"/></a></td>
+
         <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs" width="65" height="65"/></a></td>
+
       </tr>
     </table>
   </div>
 
+
+  <div style="flex: 1;">
+
   <div>
+
     <h3 align="left">Database:</h3>
     <table>
       <tr>
@@ -49,7 +61,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </table>
   </div>
 
-  <div>
+  <div style="flex: 1;">
     <h3 align="left">Frameworks:</h3>
     <table>
       <tr>
@@ -58,7 +70,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </table>
   </div>
 </div>
-
 
 <h3 align="left">Tools:</h3>
 <table>
