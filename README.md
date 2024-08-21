@@ -29,8 +29,8 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </tr>
 </table>
 
-<div style="display: flex; flex-direction: row; gap: 5px;">
-  <div>
+<div style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start;">
+  <div style="flex: 1;">
     <h3 align="left">Backend Technologies:</h3>
     <table>
       <tr>
@@ -40,7 +40,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </table>
   </div>
 
-  <div>
+  <div style="flex: 1;">
     <h3 align="left">Database:</h3>
     <table>
       <tr>
@@ -49,7 +49,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </table>
   </div>
 
-  <div>
+  <div style="flex: 1;">
     <h3 align="left">Frameworks:</h3>
     <table>
       <tr>
@@ -58,9 +58,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </table>
   </div>
 </div>
-
-
-
 <h3 align="left">Tools:</h3>
 <table>
     <tr>
