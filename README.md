@@ -29,6 +29,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </tr>
 </table>
 
+<div style="display: flex, gap:20px">
 <h3 align="left">Backend Technologies:</h3>
 <table>
     <tr>
@@ -54,6 +55,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
         <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="65" height="65"/></a></td>
     </tr>
 </table>
+</div>
 
 
 <h3 align="left">Tools:</h3>
