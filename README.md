@@ -29,31 +29,35 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     </tr>
 </table>
 
-<h3 align="left">Backend Technologies:</h3>
-<table>
-    <tr>
+<div style="display: flex; gap: 20px;">
+  <div>
+    <h3 align="left">Backend Technologies:</h3>
+    <table>
+      <tr>
         <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/></a></td>
-        <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nodejs" width="65" height="65"/></a></td>
-    </tr>
+        <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs" width="65" height="65"/></a></td>
+      </tr>
+    </table>
+  </div>
 
-</table>
-
-
-<h3 align="left">Database:</h3>
-<table>
-    <tr>
+  <div>
+    <h3 align="left">Database:</h3>
+    <table>
+      <tr>
         <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/></a></td>
-    </tr>
+      </tr>
+    </table>
+  </div>
 
-</table>
-
-
-<h3 align="left">Frameworks:</h3>
-<table>
-    <tr>
+  <div>
+    <h3 align="left">Frameworks:</h3>
+    <table>
+      <tr>
         <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="65" height="65"/></a></td>
-    </tr>
-</table>
+      </tr>
+    </table>
+  </div>
+</div>
 
 
 <h3 align="left">Tools:</h3>
@@ -65,8 +69,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <td><a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/></a></td>
     </tr>
 </table>
-
-
 
 <h3 align="left">Other Languages:</h3>
 <table>
