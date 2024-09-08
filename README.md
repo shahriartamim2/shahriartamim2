@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriartamim2&label=Profile%20views&color=0e75b6&style=flat" alt="shahriartamim2" /> </p>
 
+🔗 My Resume : <a href="https://docs.google.com/document/d/1FCk8gwbuHLT-XApwrxSOtiIxuoDAWOFt/edit?usp=drive_link&ouid=115969789291118011936&rtpof=true&sd=true">Abdullah Noman</a>
+
 ## 🌟 Looking for Collaboration on MERN Stack Projects!
 
 I'm actively seeking collaboration opportunities on **MERN stack** projects. If you're working on something exciting and need a hand with the **frontend** or **Backend**, feel free to reach out. Let's build something amazing together! 🚀
