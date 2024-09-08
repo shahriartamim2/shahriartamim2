@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriartamim2&label=Profile%20views&color=0e75b6&style=flat" alt="shahriartamim2" /> </p>
 
-🔗 My Resume : <a href="https://docs.google.com/document/d/1FCk8gwbuHLT-XApwrxSOtiIxuoDAWOFt/edit?usp=drive_link&ouid=115969789291118011936&rtpof=true&sd=true">Abdullah Noman</a>
+🔗 My Resume : <a href="https://drive.google.com/file/d/1_FP6NLFGpeGYwrjyT7RuoegIFdbFwfG4/view?usp=sharing">Abdullah Noman</a>
 
 ## 🌟 Looking for Collaboration on MERN Stack Projects!
 
