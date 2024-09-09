@@ -30,11 +30,17 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 <h3 align="left">Backend Technologies & Database & Frameworks :</h3>
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="65" height="65" style="filter: invert(100%);"/>
+</a>
+
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nodejs" width="65" height="65"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="rest-api" width="65" height="65"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="65" height="65"/></a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="65" height="65" style="filter: invert(100%);"/>
+</a>
+
   </div>
 
 <h3 align="left">Tools:</h3>
