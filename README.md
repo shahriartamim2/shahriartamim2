@@ -59,6 +59,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
 
 <div style="display: flex; align-items: center;">
+[![](https://raw.githubusercontent.com/h28a3/h28a3/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p style="flex: 1; ">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&theme=radical" alt="shahriartamim2" style="height: 180px;" />
