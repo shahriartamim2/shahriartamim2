@@ -44,6 +44,10 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/></a>
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="65" height="65"/>
+</a>
+
 
 
 
