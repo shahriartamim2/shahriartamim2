@@ -53,7 +53,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <a href="https://prettier.io/" target="_blank" rel="noreferrer">
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="70" height="70"/>
 </a>
-
 <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="65" height="65"/>
 </a>
