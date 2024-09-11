@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, This is Abdullah Noman</h1>
+<h1 align="center"> This is Abdullah Noman</h1>
 <h3 align="center">A Learner and Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriartamim2&label=Profile%20views&color=0e75b6&style=flat" alt="shahriartamim2" /> </p>
