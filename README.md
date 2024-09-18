@@ -59,6 +59,9 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="65" height="65"/>
 </a>
+<a href="https://docker.com" target="_blank" rel="noreferrer">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="70" height="70"/>
+</a>
 
 
 
