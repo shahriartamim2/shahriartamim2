@@ -23,8 +23,9 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="postgresql" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="65"/>
 </a>
+
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65"/>
