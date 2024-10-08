@@ -26,11 +26,6 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="65"/>
 </a>
 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65"/>
-</a>
-
 <h3 align="left">Frontend Technologies:</h3>
        <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/></a>
        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/></a>
