@@ -86,18 +86,15 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
 
-<div style="display: flex; align-items: center;">
-
-<p style="flex: 1; ">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" alt="shahriartamim2" />
+<div style="display: flex; height:360px; align-items: center;">
+<p style="height:100% ">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" alt="shahriartamim2" />
 </p>
-
-<p style="flex: 1;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriartamim2&show_icons=true&locale=en&theme=radical" alt="shahriartamim2" style="height:180px;" />
-</p>
-
 </div>
 
-<div  style="width:100%; display: flex;">
-	<p><img align="center" style="height:180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" alt="shahriartamim2" /></p>
+<div  style="">
+<p style="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriartamim2&show_icons=true&locale=en&theme=radical" alt="shahriartamim2" style="height:180px;" />
+</p>
+<p><img align="center" style="height:180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" alt="shahriartamim2" /></p>
 </div>
