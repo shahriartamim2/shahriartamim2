@@ -89,7 +89,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <div style="display: flex; align-items: center;">
 
 <p style="flex: 1; ">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&theme=radical" alt="shahriartamim2" style="height: 180px;" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" alt="shahriartamim2" />
 </p>
 
 <p style="flex: 1;">
