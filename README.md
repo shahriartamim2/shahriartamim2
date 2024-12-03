@@ -82,32 +82,16 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="65" height="65"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&theme=dark&card_width=400" 
-    alt="shahriartamim2" 
-  />
-</p>
 
-<p>&nbsp;
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=shahriartamim2&show_icons=true&locale=en&theme=dark" 
-    alt="shahriartamim2" 
-  />
-</p>
 
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=dark" 
-    alt="shahriartamim2" 
-  />
-</p>
 <div  style="">
 <p style="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriartamim2&show_icons=true&locale=en&theme=radical" alt="shahriartamim2" style="height:180px;" />
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&theme=radical" 
+    alt="shahriartamim2"
+	  style="height:180px;"
+  />
 <img  src="https://github-readme-stats.vercel.app/api?username=shahriartamim2&show_icons=true&locale=en&theme=radical" alt="shahriartamim2" />
 </p>
 <p><img align="center" style="height:180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" alt="shahriartamim2" /></p>
