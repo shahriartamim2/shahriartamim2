@@ -90,7 +90,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&theme=radical&card_width=450&langs_count=10" 
       alt="shahriartamim2" 
-      style="height:250px; border-radius:8px;"
+      style="height:230px; border-radius:8px;"
     />
   </div>
 
