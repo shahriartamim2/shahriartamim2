@@ -85,7 +85,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 
 
 <div  style="">
-<p style="">
+<p style="height:180px;">	
   <img 
     align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&theme=radical" alt="shahriartamim2" style="height:180px;"
   />
