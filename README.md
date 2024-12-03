@@ -101,9 +101,9 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 	</p>
   <p style="text-align:center;">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical&card_width=450" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" 
       alt="shahriartamim2" 
-      style="height:200px;"
+      style="height:200px; width:400px;"
     />
   </p>
 	</div>
