@@ -81,16 +81,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65" height="65"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="65" height="65"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/></a>
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriartamim2&theme=onedark" alt="shahriartamim2" /></a> </p>
-
-<div style="display: flex; height:360px; align-items: center;">
-<p style="height:100% ">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" alt="shahriartamim2" />
-</p>
-</div>
 
 <div  style="">
 <p style="">
