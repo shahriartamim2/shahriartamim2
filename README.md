@@ -86,24 +86,25 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
 
 <div style="display:flex; flex-direction:column;">
   <!-- First Section -->
-  <div style="margin-bottom:20px;">
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:10px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" 
       alt="shahriartamim2" 
+      style="height:200px; width:400px; border-radius:8px;"
     />
-  </div>
-
-  <!-- Second Section -->
-  <div style="display:flex; justify-content:space-between; gap:10px;">
-    <img 
+	      <img 
       src="https://github-readme-stats.vercel.app/api?username=shahriartamim2&show_icons=true&locale=en&theme=radical" 
       alt="shahriartamim2" 
       style="height:200px; width:400px; border-radius:8px;"
     />
+  </div>
+
+  <!-- Second Section -->
+  <div >
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" 
       alt="shahriartamim2" 
-      style="height:200px; width:400px; border-radius:8px;"
+      style="height:200px; width:100%; border-radius:8px;"
     />
   </div>
 </div>
