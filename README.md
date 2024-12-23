@@ -90,7 +90,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriartamim2&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" 
       alt="shahriartamim2" 
-      style="height:200px; width:400px; border-radius:8px;"
+      style="height:180px; width:400px; border-radius:8px;"
     />
 	      <img 
       src="https://github-readme-stats.vercel.app/api?username=shahriartamim2&show_icons=true&locale=en&theme=radical" 
@@ -104,7 +104,7 @@ I'm actively seeking collaboration opportunities on **MERN stack** projects. If 
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=shahriartamim2&theme=radical" 
       alt="shahriartamim2" 
-      style="height:200px; width:100%; border-radius:8px;"
+      style="height:180px; width:100%; border-radius:8px;"
     />
   </div>
 </div>
